@@ -11,7 +11,7 @@ For each Recipe you can find more information about the recipe by clicking on th
 
 ## How to use it 
 
-You can use the bookfinder by visiting this link -----> https://groweggie.netlify.app
+You can use the recipe finder by visiting this link -----> https://groweggie.netlify.app
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. <br>
