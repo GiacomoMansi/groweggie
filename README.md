@@ -1,4 +1,5 @@
-# LeggoLibri Finder Book
+# Grow Weggie, We help you to find vegetarian recipes
+
 
 Grow Weggie is a Vegetarian recipe finder<br>
 In the search bar you can input a value like an ingridients<br>
